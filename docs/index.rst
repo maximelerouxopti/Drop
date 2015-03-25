@@ -23,19 +23,17 @@ rule files, Diazo makes common cases simple and complex requirements possible.
 Table of ze content
 
 .. toctree::
-   :maxdepth: 1
    index
 
 Connectors
 
 .. toctree::
-   :maxdepth: 2
+
    connectors/pushbullet
 
 Thrid Party system configuration
 
 .. toctree::
-   :maxdepth: 2
    thirdparty/index
 
 
