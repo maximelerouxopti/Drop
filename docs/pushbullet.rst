@@ -24,6 +24,7 @@ from the `api section <https://www.pushbullet.com/account>`_ of your account
 
 .. image:: images/pushbullet_config.png
     :height: 200px
+    :scale: 0.5
 
 
 Test
