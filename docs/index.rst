@@ -20,8 +20,11 @@ with HTML and CSS. And by allowing you seamlessly integrate XSLT into your
 rule files, Diazo makes common cases simple and complex requirements possible.
 
 Contents:
-   :doc:`Pushbullet connector`
-   :doc:`connectors\pushbullet`
+   :ref:`Pushbullet connector`
+
+   :ref:`connectors\pushbullet`
+   
+   :ref:`pushbullet`
 
 
 +---------+---------+-----------+
