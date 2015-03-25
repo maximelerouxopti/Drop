@@ -32,7 +32,7 @@ Test
 Use the connector test tool to send a test notification
 
 .. image:: images/pushbullet_test.png
-    :height: 100 px
+    :width: 100 px
     :align: right
 
 
