@@ -23,9 +23,14 @@ Contents:
    :ref:`Pushbullet connector`
 
    :ref:`connectors\pushbullet`
-   
+
    :ref:`pushbullet`
 
+
+Table of ze content
+
+.. toctree::
+   pushbullet
 
 +---------+---------+-----------+
 | 1       |  2      |  3        |
