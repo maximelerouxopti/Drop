@@ -23,8 +23,7 @@ Surycat configuration
 from the `api section <https://www.pushbullet.com/account>`_ of your account
 
 .. image:: images/pushbullet_config.png
-    :height: 200px
-    :scale: 0.5
+    :scale: 50%
 
 
 Test
@@ -33,7 +32,7 @@ Test
 Use the connector test tool to send a test notification
 
 .. image:: images/pushbullet_test.png
-    :height: 200px
+    :height: 100 px
     :align: right
 
 
