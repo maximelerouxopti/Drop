@@ -21,7 +21,7 @@ Surycat configuration
 1. Pick the Pushbullet connector from the store 
 2. Set an optional custom name and enter the Access Token your retrieved from the `api section <https://www.pushbullet.com/account>`_ of your account
 
-.. image:: images/pushbullet_config.png
+.. image:: ../images/pushbullet_config.png
     :width: 300 px
     :scale: 50%
 
@@ -31,7 +31,7 @@ Test
 
 Use the connector test tool to send a test notification
 
-.. image:: images/pushbullet_test.png
+.. image:: ../images/pushbullet_test.png
     :width: 300 px
     :scale: 50%
     
