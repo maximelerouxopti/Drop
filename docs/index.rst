@@ -5,6 +5,7 @@ This is where the doc is. Unbelievable, right ?
 
 
 Table of ze content
+Doc v1 here !
 
 .. toctree::
    :maxdepth: 2
