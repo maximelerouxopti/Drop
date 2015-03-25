@@ -2,8 +2,10 @@ Diazo theme engine guide
 ====================================
 
 | *di-az-o (also di-az-o-type)*
-|   *noun*
+|   *noun* 
 |   *a copying or coloring process using a diazo compound decomposed by ultraviolet light*
+coucou
+
 
 Diazo allows you to apply a theme contained in a static HTML web page to a
 dynamic website created using any server-side technology. With Diazo, you can
