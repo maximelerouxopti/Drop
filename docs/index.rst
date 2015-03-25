@@ -26,3 +26,8 @@ Contents:
 +=========+=========+===========+
 | coucou | caca | pipi |
 +---------+---------+-----------+
+
+ralala
+
+Bold : **gras**
+Italic : *italic*
