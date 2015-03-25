@@ -25,15 +25,13 @@ Table of ze content
 .. toctree::
    index
 
-.. toctree::
-   :maxdepth: 2
-   index
 
 Connectors
 
 .. toctree::
+   connectors/index
+   connectors/pushbullet
 
-   connectors
 
 Thrid Party system configuration
 
