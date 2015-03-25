@@ -1,4 +1,31 @@
- -- Options for Epub output -------------------------------------------
+# -*- coding: utf-8 -*-
+
+import sys
+import os
+
+this = os.path.dirname(os.path.abspath(__file__))
+
+# If your extensions are in another directory, add it here. If the directory
+# is relative to the documentation root, use os.path.abspath to make it
+# absolute, like shown here.
+sys.path.insert(0, os.path.join(this, os.pardir))
+sys.path.append(os.path.join(this, '_ext'))
+import celery
+
+# General configuration
+# ---------------------
+
+extensions = ['sphinx.ext.autodoc',
+              'sphinx.ext.coverage',
+              'sphinx.ext.pngmath',
+              'sphinx.ext.viewcode',
+              'sphinx.ext.coverage',
+              'sphinx.ext.intersphinx',
+              'celery.contrib.sphinx',
+              'githubsphinx',
+              'celerydocs']
+              
+#-- Options for Epub output -------------------------------------------
 version = '1.0'
 # Bibliographic Dublin Core info.
 epub_title = 'Celery Manual, Version {0}'.format(version)
