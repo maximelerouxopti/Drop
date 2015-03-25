@@ -25,6 +25,10 @@ Table of ze content
 .. toctree::
    index
 
+.. toctree::
+   :maxdepth: 2
+   index
+
 Connectors
 
 .. toctree::
