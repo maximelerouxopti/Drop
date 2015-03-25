@@ -26,12 +26,16 @@ Table of ze content
 Connectors
 
 .. toctree::
+   :maxdepth: 1
+   
    connectors/index
 
 
 Thrid Party system configuration
 
 .. toctree::
+   :maxdepth: 1
+
    thirdparty/index
 
 
