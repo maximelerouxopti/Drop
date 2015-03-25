@@ -8,7 +8,7 @@ Management of users
 This feature Paging is only compatible with Alcatel-Lucent Enterprise devices (use of proprietary protocol).
 It could be validated on all IPTouch series 8/9, Mobile IPTouch 81xx, 400/8232/8242DECT, OTCT for MyICPhone (8082 with NOE protocol), IPTouch 3G 80xx.
 
-The user must not be Multiline in order to ge access to this feature  Historical limitation.
+The user must not be Multiline in order to ge access to this feature Historical limitation.
 
 Use of Omnivista 8770 Network Management Center to manage the OmniPCX Enterprise parameters.
 
