@@ -40,7 +40,7 @@ Test
 
 Use the connector test tool to send a test notification
 
-.. image:: ../images/pushbullet_test.png
+.. image:: images/pushbullet_test.png
     :height: 200px
     :align: right
 
