@@ -14,16 +14,13 @@ Use of Omnivista 8770 Network Management Center to manage the OmniPCX Enterprise
 
 
 .. image:: alcpaging_cfg1.png
-    :width: 300 px
     :scale: 50%
 
 .. image:: alcpaging_cfg2.png
     :width: 300 px
-    :scale: 50%
 
 .. image:: alcpaging_cfg3.png
     :width: 300 px
-    :scale: 50%
 
 
 
