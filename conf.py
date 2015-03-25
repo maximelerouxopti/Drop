@@ -10,7 +10,7 @@ this = os.path.dirname(os.path.abspath(__file__))
 # absolute, like shown here.
 sys.path.insert(0, os.path.join(this, os.pardir))
 sys.path.append(os.path.join(this, '_ext'))
-import celery
+
 
 # General configuration
 # ---------------------
@@ -24,7 +24,40 @@ extensions = ['sphinx.ext.autodoc',
               'celery.contrib.sphinx',
               'githubsphinx',
               'celerydocs']
-              
+
+
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'colorful'
+
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files,
+# so a file named "default.css" will overwrite the builtin "default.css".
+html_static_path = ['.static']
+
+html_use_smartypants = True
+
+add_module_names = True
+highlight_language = 'python3'
+
+# If false, no module index is generated.
+html_use_modindex = True
+
+# If false, no index is generated.
+html_use_index = True
+
+latex_documents = [
+    ('index', 'Celery.tex', 'Celery Documentation',
+     'Ask Solem & Contributors', 'manual'),
+]
+
+html_theme = 'celery'
+html_theme_path = ['_theme']
+html_sidebars = {
+    'index': ['sidebarintro.html', 'sourcelink.html', 'searchbox.html'],
+    '**': ['sidebarlogo.html', 'relations.html',
+           'sourcelink.html', 'searchbox.html'],
+}
+
 #-- Options for Epub output -------------------------------------------
 version = '1.0'
 # Bibliographic Dublin Core info.
