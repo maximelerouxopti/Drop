@@ -19,23 +19,18 @@ When using Diazo, you will work with syntax and concepts familiar from working
 with HTML and CSS. And by allowing you seamlessly integrate XSLT into your
 rule files, Diazo makes common cases simple and complex requirements possible.
 
-Contents:
-   :ref:`Pushbullet connector`
-
-   :ref:`connectors\pushbullet`
-
-   :ref:`pushbullet`
-
 
 Table of ze content
 
 .. toctree::
+   :maxdepth: 1
    pushbullet
 
 Table of content 2
 
 .. toctree::
-   connectors/index
+   :maxdepth: 1
+   connectors/pushbullet
 
 end of toc
 
