@@ -182,7 +182,7 @@ latex_documents = [
    u'Optiflows', 'manual'),
 ]
 latex_elements = {
-    'fontpkg': '',
+    'fontpkg': '\\usepackage{helvet}',
 }
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
