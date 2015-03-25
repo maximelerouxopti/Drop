@@ -26,19 +26,6 @@ Table of ze content
    index
 
 
-Connectors
-
-.. toctree::
-   connectors/index
-   connectors/pushbullet
-
-
-Thrid Party system configuration
-
-.. toctree::
-   thirdparty/index
-
-
 .. important:: This is important
 
 
