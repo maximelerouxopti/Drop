@@ -29,7 +29,7 @@ Connectors
 
 .. toctree::
 
-   connectors/pushbullet
+   connectors
 
 Thrid Party system configuration
 
