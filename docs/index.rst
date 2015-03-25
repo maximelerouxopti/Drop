@@ -22,8 +22,17 @@ rule files, Diazo makes common cases simple and complex requirements possible.
 
 Table of ze content
 
+
+Connectors
+
 .. toctree::
-   index
+   connectors/index
+
+
+Thrid Party system configuration
+
+.. toctree::
+   thirdparty/index
 
 
 .. important:: This is important
