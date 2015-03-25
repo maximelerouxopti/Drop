@@ -21,3 +21,8 @@ rule files, Diazo makes common cases simple and complex requirements possible.
 
 Contents:
 
++---------+---------+-----------+
+| 1       |  2      |  3        |
++=========+=========+===========+
+| coucou | caca | pipi |
++---------+---------+-----------+
