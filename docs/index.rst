@@ -21,19 +21,3 @@ rule files, Diazo makes common cases simple and complex requirements possible.
 
 Contents:
 
-.. toctree::
-   :maxdepth: 3
-
-   introduction
-   quickstart
-   installation
-   basic
-   advanced
-   compiler
-   deployment
-   contributing
-
-.. toctree::
-   :maxdepth: 2
-
-   recipes/index
