@@ -4,7 +4,7 @@ Surycat Documentation
 | *di-az-o (also di-az-o-type)*
 |   *noun*
 |   *a copying or coloring process using a diazo compound decomposed by ultraviolet light*
-coucou
+
 
 
 Diazo allows you to apply a theme contained in a static HTML web page to a
@@ -32,7 +32,9 @@ ralala
 .. image:: images/phone.png
 
 .. hint:: C'est la teuf
+
 avec des patates
+
 
 .. important:: This is important
 
@@ -43,7 +45,7 @@ avec des patates
 | les patattes                     | et les choux                |
 +----------------------------------+-----------------------------+
 | c'ets de la merd Bold : **gras** | .. image:: images/phone.png |
-| a                                | vec une image               |
+| a                                |                             |
 +----------------------------------+-----------------------------+
 
 
