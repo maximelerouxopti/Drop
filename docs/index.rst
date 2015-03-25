@@ -34,6 +34,8 @@ ralala
 .. hint:: C'est la teuf
 avec des patates
 
+.. important:: This is important
+
 
 +----------------------------------+-----------------------------+
 | j'aime la vie                    | et le fra                   |
