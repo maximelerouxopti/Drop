@@ -24,15 +24,19 @@ Table of ze content
 
 .. toctree::
    :maxdepth: 1
-   pushbullet
+   index
 
-Table of content 2
+Connectors
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    connectors/pushbullet
 
-end of toc
+Thrid Party system configuration
+
+.. toctree::
+   :maxdepth: 2
+   thirdparty/index
 
 
 .. important:: This is important
