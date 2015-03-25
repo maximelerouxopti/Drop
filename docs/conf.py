@@ -199,7 +199,7 @@ latex_logo = 'images/logo-surycat-brand.png'
 #latex_show_urls = False
 
 # Additional stuff for the LaTeX preamble.
-latex_preamble = '\usepackage[scaled=.90]{helvet}'
+latex_preamble = '\usepackage{helvet}\renewcommand{\familydefault}{\sfdefault}'
 
 # Documents to append as an appendix to all manuals.
 #latex_appendices = []
