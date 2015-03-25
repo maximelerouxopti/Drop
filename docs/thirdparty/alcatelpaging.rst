@@ -17,10 +17,10 @@ Use of Omnivista 8770 Network Management Center to manage the OmniPCX Enterprise
     :scale: 50%
 
 .. image:: alcpaging_cfg2.png
-    :width: 300 px
+    :scale: 50%
 
 .. image:: alcpaging_cfg3.png
-    :width: 300 px
+    :scale: 50%
 
 
 
@@ -29,7 +29,6 @@ Management of System Parameter for NS
 =====================================
 
 .. image:: alcpaging_ns.png
-    :width: 300 px
     :scale: 50%
 
 
@@ -87,7 +86,6 @@ Check the CSTA connection
 using a browser and url: http://oxe-fqdn/csta_mono or http://oxe-IPaddress/csta_mono
 
 .. image:: alcpaging_lic.png
-    :width: 300 px
     :scale: 50%
 
 
