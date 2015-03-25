@@ -1,4 +1,4 @@
-Diazo theme engine guide
+Surycat Documentation
 ====================================
 
 | *di-az-o (also di-az-o-type)*
@@ -24,7 +24,7 @@ Contents:
 +---------+---------+-----------+
 | 1       |  2      |  3        |
 +=========+=========+===========+
-| coucou | caca | pipi |
+| coucou  | caca    | pipi      |
 +---------+---------+-----------+
 
 ralala
