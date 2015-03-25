@@ -2,7 +2,7 @@ Diazo theme engine guide
 ====================================
 
 | *di-az-o (also di-az-o-type)*
-|   *noun* 
+|   *noun*
 |   *a copying or coloring process using a diazo compound decomposed by ultraviolet light*
 coucou
 
