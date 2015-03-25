@@ -181,10 +181,12 @@ latex_documents = [
   ('index', 'Drop.tex', u'Drop Documentation',
    u'Optiflows', 'manual'),
 ]
-
+latex_elements = {
+    'fontpkg': '',
+}
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-#latex_logo = None
+latex_logo = 'images/logo-surycat-brand.png'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
