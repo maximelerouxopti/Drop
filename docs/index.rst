@@ -21,6 +21,7 @@ rule files, Diazo makes common cases simple and complex requirements possible.
 
 Contents:
    :doc:`Pushbullet connector`
+   :doc:`connectors\pushbullet`
 
 
 +---------+---------+-----------+
