@@ -31,6 +31,9 @@ ralala
 
 .. image:: images/phone.png
 
+.. hint:: C'est la teuf
+avec des patates
+
 
 +----------------------------------+-----------------------------+
 | j'aime la vie                    | et le fra                   |
