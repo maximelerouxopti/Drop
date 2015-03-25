@@ -32,35 +32,14 @@ Table of ze content
 .. toctree::
    pushbullet
 
-+---------+---------+-----------+
-| 1       |  2      |  3        |
-+=========+=========+===========+
-| coucou  | caca    | pipi      |
-+---------+---------+-----------+
+Table of content 2
 
-ralala
+.. toctree::
+   connectors/index
 
-.. image:: images/phone.png
-
-.. hint:: C'est la teuf
-
-avec des patates
+end of toc
 
 
 .. important:: This is important
 
 
-+----------------------------------+-----------------------------+
-| j'aime la vie                    | et le fra                   |
-+==================================+=============================+
-| les patattes                     | et les choux                |
-+----------------------------------+-----------------------------+
-| c'ets de la merd Bold : **gras** | .. image:: images/phone.png |
-| a                                |                             |
-+----------------------------------+-----------------------------+
-
-
-
-Italic : *italic*
-
-chklac
