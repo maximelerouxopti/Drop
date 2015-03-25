@@ -53,7 +53,7 @@ Look for “Notification Server”
     Flow Metering on Ethernet : 1
     4635 users                : 1
     Automatic directory pop-up: 255
-    Notification Server       : 60      Value should be 50 at least and upper
+    Notification Server       : 60     Value should be 50 at least and upper
     FAX server ABC-A link     : 6
     Roaming DECT/PWT          : 0
     Voice guide record from Reflexes: 1

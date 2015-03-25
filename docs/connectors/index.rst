@@ -4,4 +4,6 @@ Surycat connectors
 Browse the store & enjoy !
 
 .. toctree::
-   pushbullet
+    :maxdepth: 1
+    
+    pushbullet
