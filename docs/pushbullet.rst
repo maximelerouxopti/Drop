@@ -22,10 +22,10 @@ Surycat configuration
 2. Set an optional custom name and enter the Access Token your retrieved
 from the `api section <https://www.pushbullet.com/account>`_ of your account
 
-.. image:: ../images/pushbullet_config.png
+.. image:: images/pushbullet_config.png
     : height: 200px
 +--------------------------------------------------------------+-----------------------------------------------+
-| Pick                 | .. image:: ../images/pushbullet_connector.png |
+| Pick                 | .. image:: images/pushbullet_connector.png |
 +==============================================================+===============================================+
 |                        |     |
 |                               |                                               |
